@@ -1,0 +1,47 @@
+Gene_ID	Protein description	Adj. p-value	Interaction	Novel	Human_brain	PD	PD_genetic	model	Rat_neurons	mouse_brain	E.coli	Genetic	Functional	Human_cells	Reference
+SLC17A7	Vesicular glutamate transporter 1	8.46E-19	PD			1	1								Goralski et al., (2024)
+SYNGR3	Synaptogyrin-3	1.48E-18	Human brain		1										Choi et al., (2025); Killinger et al., (2022)
+SCAMP3	Secretory carrier-associated membrane protein 3	4.24E-18	Rat neurons					1	1						Chung et al., (2017)
+SCAMP5	Secretory carrier-associated membrane protein 5	4.24E-18	Rat neurons					1	1						Yang et al., (2017)
+SV2A	Synaptic vesicle glycoprotein 2A	1.74E-17	Human brain		1										Choi et al., (2025); Killinger et al., (2022)
+SYP	Synaptophysin	2.88E-17	Human brain; rat neurons; mouse brain		1			1	1	1					Choi et al., (2025); Killinger et al., (2022); Chung et al., (2017); McFarland et al., (2008)
+ATP6V0A1	V-type proton ATPase 116 kDa subunit a 1	4.68E-17	Human brain; rat neurons; mouse brain; E.Coli		1			1	1	1	1				Choi et al., (2025); Killinger et al., (2022); Chung et al., (2017); McFarland et al., (2008); Chen et al., (2025)
+EDIL3	EGF-like repeat and discoidin I-like domain-containing protein 3	2.85E-16	Novel	1											
+SNAP25	Synaptosomal-associated protein 25	5.98E-16	Human brain; rat neurons; E.Coli		1			1	1		1				Choi et al., (2025); Killinger et al., (2022); Chung et al., (2017); Chen et al., (2025)
+PRNP	Major prion protein	5.98E-16	Human brain		1										Choi et al., (2025); Killinger et al., (2022)
+SV2B	Synaptic vesicle glycoprotein 2B	3.81E-15	Human brain; rat neurons		1			1	1						Choi et al., (2025); Killinger et al., (2022); Chung et al., (2017)
+CNTNAP1	Contactin-associated protein 1	5.75E-15	Human brain		1										Choi et al., (2025); Killinger et al., (2022)
+VAMP2	Vesicle-associated membrane protein 2	9.68E-15	Human brain		1										Choi et al., (2025); Killinger et al., (2022)
+ATP6AP1	V-type proton ATPase subunit S1	1.67E-14	Novel	1											
+M6PR	Cation-dependent mannose-6-phosphate receptor	2.23E-14	Functional										1		Aulic et al., (2017)
+SLC6A17	Sodium-dependent neutral amino acid transporter SLC6A17	8.31E-14	Human brain		1										Killinger et al., (2022)
+AAK1	AP2-associated protein kinase 1	1.09E-13	Human brain; human neurons		1			1						1	Killinger et al., (2022); Griffin et al., (2023)
+TMEM163	Transmembrane protein 163	1.31E-13	GWAS				1					1			Nalls et al., (2014)
+VAMP1	Vesicle-associated membrane protein 1	3.01E-13	Novel	1											
+CLTA	Clathrin light chain A	5.28E-13	Human brain; rat neurons		1			1	1						Choi et al., (2025); Chung et al., (2017)
+OPCML	Opioid-binding protein/cell adhesion molecule	9.25E-13	Mouse brain					1		1					McFarland et al., (2008)
+STX7	Syntaxin-7	1.42E-12	Novel	1											
+STX1B	Syntaxin-1B	2.28E-12	Human brain; GWAS; E.Coli		1		1	1			1	1			Choi et al., (2025); Killinger et al., (2022); Nalls et al., (2014); Chen et al., (2025)
+ATP8A1	Phospholipid-transporting ATPase IA	5.78E-12	Human brain		1										Killinger et al., (2022)
+DNAJC5	DnaJ homolog subfamily C member 5	3.08E-11	Functional										1		Wu et al., (2023)
+TMEM30A	Cell cycle control protein 50A	4.03E-11	Novel	1											
+SLC8A2	Sodium/calcium exchanger 2	4.84E-11	Novel	1											
+SCAMP1	Secretory carrier-associated membrane protein 1	7.08E-11	Novel	1											
+PRRT2	Proline-rich transmembrane protein 2	1.21E-10	Human brain		1										Choi et al., (2025); Killinger et al., (2022)
+GNAQ	Guanine nucleotide-binding protein G(q) subunit alpha	1.30E-10	Human brain		1										Killinger et al., (2022)
+DNAJC6	Auxilin	1.30E-10	Human brain; familial PD; rat neurons		1		1	1	1			1			Killinger et al., (2022); Olgiati et al., (2016); Chung et al., (2017)
+GNAO1	Guanine nucleotide-binding protein G(o) subunit alpha	2.59E-10	Human brain; human neurons; mouse brain; E.Coli		1			1		1	1			1	Choi et al., (2025); Killinger et al., (2022); Griffin et al., (2023); McFarland et al., (2008); Chen et al., (2025)
+ATP2C1	Calcium-transporting ATPase type 2C member 1	2.65E-10	Novel	1											
+SLC30A3	Probable proton-coupled zinc antiporter SLC30A3	1.25E-09	Functional										1		Kara et al., (2021)
+NEGR1	Neuronal growth regulator 1	1.60E-09	Human brain		1										Killinger et al., (2022)
+STX1A	Syntaxin-1A	2.21E-09	Human brain; mouse brain		1			1		1					Choi et al., (2025); Killinger et al., (2022); McFarland et al., (2008)
+MBLAC2	Acyl-coenzyme A thioesterase MBLAC2	3.94E-09	PD			1	1								Goralski et al., (2024)
+CADM3	Cell adhesion molecule 3	5.18E-09	Human brain		1										Choi et al., (2025); Killinger et al., (2022)
+RAP2B	Ras-related protein Rap-2b	1.36E-08	Human brain		1										Killinger et al., (2022)
+CADM2	Cell adhesion molecule 2	2.10E-08	Human brain		1										Choi et al., (2025); Killinger et al., (2022)
+DPP6	A-type potassium channel modulatory protein DPP6	9.42E-08	Human brain		1										Killinger et al., (2022)
+CYB5R1	NADH-cytochrome b5 reductase 1	1.72E-07	PD			1	1								Liu et al., (2023)
+ACSL3	Fatty acid CoA ligase Acsl3	6.44E-07	HEK cells; human neurons					1						1	Teixeira et al., (2025); Griffin et al., (2023)
+SLC2A3	Solute carrier family 2, facilitated glucose transporter member 3	1.38E-06	Novel	1											
+GNAI1	Guanine nucleotide-binding protein G(i) subunit alpha-1	2.22E-06	Human brain		1										Choi et al., (2025); Killinger et al., (2022)
+CLTB	Clathrin light chain B	4.15E-06	Functional										1		Ninkina et al., (2021)
