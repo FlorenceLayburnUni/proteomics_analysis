@@ -487,6 +487,9 @@ Dotplot_CC_down <- ggplot(ego_down_CC_df[1:20,], aes(x = Count, y = fct_rev(Desc
 ggsave(Dotplot_CC_down, filename = file.path('D:/Newgraph', 'STRAP_F1_CC20.pdf'), units = 'mm', height = 150, width =89, dpi = 300)
 
 ########### Limma with contrasts to look at PD vs control differences in each fraction ######
+#this analysis has the same effect as following the steps in Section 9.5.2 and 9.5.3 of the Limma instruction manual on factorial designs
+#which is achieved by using model.matrix with interactions only and not main effects
+
 all_proteins <- cc_qf[["log_proteins_centered"]]
 row_names <-  all_proteins %>% rowData() %>% as_tibble() %>% pull(Genes) %>% as.list()
 all_proteins <- "rownames<-"(all_proteins, row_names)
